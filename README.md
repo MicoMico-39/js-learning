@@ -1,5 +1,3 @@
-video de donde aprendo: https://www.youtube.com/watch?v=z95mZVUcJ-E
+GUIA 1:
 
-guias actuales:
-
-1.guia 1:
+Contenidos:
