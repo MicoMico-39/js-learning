@@ -1,3 +1,3 @@
-GUIA 2:
+BASE BRANCH
 
-Contenidos:
+Para copiar desde aquí las nuevas branch
