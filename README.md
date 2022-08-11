@@ -1,4 +1,4 @@
-GUIA 2:
+GUÍA 2:
 
 Contenidos:
 ★
