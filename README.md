@@ -1,3 +1,3 @@
-GUIA 1:
+GUIA 2:
 
 Contenidos:
