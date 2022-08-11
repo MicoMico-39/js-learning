@@ -1,5 +1,10 @@
 video de donde aprendo: https://www.youtube.com/watch?v=z95mZVUcJ-E
 
-guias actuales:
+Guia 1: 1:45:38
 
-1.guia 1:
+
+
+Importante(cosas que probablemente se me olviden)
+★Concadenar texto:
+    ${nombre} (variable)
+★
